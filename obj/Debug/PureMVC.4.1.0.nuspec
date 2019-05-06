@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PureMVC</id>
+    <version>4.1.0</version>
+    <authors>Saad Shams</authors>
+    <owners>Saad Shams</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/PureMVC/puremvc-csharp-standard-framework/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://forums.puremvc.org/index.php?board=20.0</projectUrl>
+    <iconUrl>http://puremvc.org/images/puremvc-logo.png</iconUrl>
+    <description>PureMVC is a lightweight framework for creating applications based upon the classic Model-View-Controller design meta-pattern.</description>
+    <copyright>Copyright © 2017 Saad Shams, Futurescale, Inc.</copyright>
+    <tags>PureMVC Standard MVC</tags>
+    <repository type="Git" url="https://github.com/PureMVC/puremvc-csharp-standard-framework" />
+    <dependencies>
+      <group targetFramework=".NETFramework3.5" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="G:\OpenSource\puremvc-csharp-standard-framework-master\PureMVC\bin\Debug\net35\PureMVC.dll" target="lib\net35\PureMVC.dll" />
+  </files>
+</package>

@@ -1,0 +1,8 @@
+G:\OpenSource\puremvc-csharp-standard-framework-master\PureMVC\bin\Release\net35\PureMVC.dll
+G:\OpenSource\puremvc-csharp-standard-framework-master\PureMVC\bin\Release\net35\PureMVC.pdb
+G:\OpenSource\puremvc-csharp-standard-framework-master\PureMVC\obj\Release\net35\PureMVC.csprojAssemblyReference.cache
+G:\OpenSource\puremvc-csharp-standard-framework-master\PureMVC\obj\Release\net35\PureMVC.csproj.CoreCompileInputs.cache
+G:\OpenSource\puremvc-csharp-standard-framework-master\PureMVC\obj\Release\net35\PureMVC.AssemblyInfoInputs.cache
+G:\OpenSource\puremvc-csharp-standard-framework-master\PureMVC\obj\Release\net35\PureMVC.AssemblyInfo.cs
+G:\OpenSource\puremvc-csharp-standard-framework-master\PureMVC\obj\Release\net35\PureMVC.dll
+G:\OpenSource\puremvc-csharp-standard-framework-master\PureMVC\obj\Release\net35\PureMVC.pdb
